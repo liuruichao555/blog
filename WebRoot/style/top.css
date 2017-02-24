@@ -1,0 +1,12 @@
+.top-container {
+    margin: 0 auto;
+    width: 80%;
+    height: 50px;
+}
+.top-container .top-left {
+    display: inline;
+}
+.top-container .top-right {
+    display: inline;
+    color: white;
+}

@@ -1,0 +1,40 @@
+body {
+    margin: 0 auto;
+    padding: 0;
+    width: 100%;
+    height: auto;
+}
+
+.top {
+    width: 100%;
+    heigth: 50px;
+    background-color: black;
+}
+
+.main {
+    margin: 0 auto;
+    width: 80%;
+    height: 1005%;
+    min-height: 800px;
+}
+
+.bottom {
+    width: 100%;
+    heigth: auto;
+    border-top: 1px solid #E0E0E0;
+    text-align: center;
+    color: #9C9C9C;
+    padding-top: 30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+a, a:link, a:visited {
+    text-decoration: none;
+    color: #777676;
+}
+
+a:hover {
+    text-decoration: none;
+    color: orange;
+}
